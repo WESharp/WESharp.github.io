@@ -1,10 +1,10 @@
 # Site settings
-title: WEsharp
+title: WESharp
 email: 
-description: "WEsharp's Site"
+description: "WESharp's Site"
 baseurl: ""
-url: "http://wesharp.github.io/"
-github_username:  wesharp
+url: "http://WESharp.github.io/"
+github_username:  WESharp
 
 # Build settings
 markdown: kramdown
