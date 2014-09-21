@@ -1,0 +1,11 @@
+# Site settings
+title: WEsharp
+email: dumuqiao0317@gmail.com
+description: "WEsharp's Site"
+baseurl: ""
+url: "http://wesharp.github.io/"
+github_username:  wesharp
+
+# Build settings
+markdown: kramdown
+permalink: pretty
